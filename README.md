@@ -7,7 +7,7 @@ This repository contains TypeScript solutions for eight programming problems and
 ### Blog Posts
 
 1. [Type Narrowing in TypeScript](type-narrowing.md)
-2. [Access Modifiers in TypeScript OOP](typescript-access-modifiers.md)
+2. [Access Modifiers in TypeScript OOP](access-modifiers.md)
 
 ### Repository
 
